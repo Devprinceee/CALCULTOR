@@ -22,19 +22,19 @@ $ pkg install clang
 
 1. **Clone the repository:**
    ```bash
-   git clone https://github.com/Devprinceee/CALCULTOR
+   git clone https://github.com/Devprinceee/CALCULATOR
    ```
 2. **Navigate to the directory:**
    ```bash
-   cd CALCULTOR
+   cd CALCULATOR
    ```
 3. **Compile the code:**
    ```bash
-   gcc CALCULATOR.c -o CALCULTOR
+   gcc CALCULATOR.c -o CALCULATOR
    ```
    **for termux;**
    
-   $ clang CALCULTOR.c -o CALCULTOR
+   $ clang CALCULTOR.c -o CALCULATOR
 5. **Run the executable:**
    ```bash
    ./calculator
