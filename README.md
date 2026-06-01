@@ -13,7 +13,8 @@ This is a basic menu-driven calculator application developed in C. It allows use
 
 ## 🛠️ How to Run
 To compile and run this program on your local machine, ensure you have a C compiler (like GCC) installed.  
-# for turmux  
+# for turmux ,terminal and vs 
+
 $ pkg install clang  
   
 
